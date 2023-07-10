@@ -30,7 +30,8 @@ Dimension Tables
    * Store
 
 **Source and Visualisations**
-The data was provided to me by Career Foundry. 
-Link to some of the Tableau visualisations included in final presentation - https://public.tableau.com/app/profile/dan.franklin
+
+* The data was provided to me by Career Foundry. 
+* Link to some of the Tableau visualisations included in final presentation - https://public.tableau.com/app/profile/dan.franklin
 
 
